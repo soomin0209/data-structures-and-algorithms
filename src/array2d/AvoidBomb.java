@@ -1,3 +1,5 @@
+package array2d;
+
 import java.util.Scanner;
 
 public class AvoidBomb {

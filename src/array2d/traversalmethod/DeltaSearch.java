@@ -1,3 +1,5 @@
+package array2d.traversalmethod;
+
 import java.util.Scanner;
 
 public class DeltaSearch {

@@ -1,3 +1,5 @@
+package array2d.traversalmethod;
+
 public class MatrixTraversal {
 
     public static void main(String[] args) {

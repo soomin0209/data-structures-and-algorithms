@@ -1,3 +1,5 @@
+package array1d.sortalgorithms;
+
 public class CountingSort {
 
     // 배열 출력을 위한 유틸리티 메서드

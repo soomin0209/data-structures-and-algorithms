@@ -1,3 +1,5 @@
+package bruteforce_greedy;
+
 import java.util.Arrays;
 
 public class GreedyAlgorithm {

@@ -1,3 +1,5 @@
+package array2d.traversalmethod;
+
 public class SnailTraversal {
 
     public static void main(String[] args) {

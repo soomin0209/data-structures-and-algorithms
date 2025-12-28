@@ -1,3 +1,5 @@
+package array1d.searchmethod;
+
 import java.util.Arrays;
 
 public class TwoPointer {

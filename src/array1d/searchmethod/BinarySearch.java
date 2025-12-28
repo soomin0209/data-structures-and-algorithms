@@ -1,3 +1,5 @@
+package array1d.searchmethod;
+
 public class BinarySearch {
 
     static int cnt = 0;
